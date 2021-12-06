@@ -1,5 +1,8 @@
 # Documentation
 
+![image](https://user-images.githubusercontent.com/40719064/144928307-c3d335ac-6967-4670-836e-1cf7fe2af589.png)
+
+
 ## a. Write out the relation including the attributes
 
 - Customers (customer_number, firstname, lastname, salutation, gender, religion, age) PRIMARY KEY (customer_number)
