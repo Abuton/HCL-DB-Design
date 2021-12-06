@@ -21,3 +21,4 @@
 
 ## c. Go through the definitions of each normal form starting with 1NF and going up to BCNF
 - 1NF - 
+
